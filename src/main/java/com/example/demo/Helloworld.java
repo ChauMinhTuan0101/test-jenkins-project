@@ -11,7 +11,7 @@ public class Helloworld {
         @RequestMapping("/home")
         public String home()
         {
-            return "hello world";
+            return "hello world QSR";
         }
 
 }
